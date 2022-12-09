@@ -1,0 +1,15 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "ms-vscode.powershell-preview",
+            "ms-azuretools.vscode-docker",
+            "davidanson.vscode-markdownlint",
+            "pspester.pester-test",
+            "redhat.vscode-yaml"
+        ]
+      }
+    }
+  }
